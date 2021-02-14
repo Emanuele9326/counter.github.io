@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body{
+  background-color: #d4d4d4;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 18%;
+
+}
+.display{
+  background-color: white;
+  margin-top:400px;
+  margin:auto;
+  border-radius: 5px;
+}
+
+input{
+  width: 300px;
+  border: 5px solid black;
+  border-radius: 5px;
+  color:black;
+  font: bold  22px Arial, Helvetica, sans-serif ;
+}
+
+.pulsanti{
+  margin: auto;
+  padding: 20px;
+
+}
+#incremento{
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  margin-right: 5px;
+  outline: none; /*elimina il contorno bianco quando lo schicci*/
+  cursor: pointer;
+  text-align: center;
+  font: bold 18px Arial, Helvetica, sans-serif;
+
+}
+
+#decremento{
+  margin-left: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  font: bold 18px Arial, Helvetica, sans-serif;
+
+}
+#Reset{
+  margin-left: 5px;
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  font: bold 18px Arial, Helvetica, sans-serif;
+
+}
