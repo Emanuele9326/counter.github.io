@@ -21,6 +21,6 @@ DESCRIZIONE:
 In questo progetto si è voluto realizzare una semplice apllicazione che svolga il ruolo di contatore.
 Il counter parte dal valore zero, per incrementare il valore si preme il pulsante "+" per decrementare si utilizza il pulsante "-", infine il pulsante "Reset" esegue il reset del contatore.
 
-Come si può notare testando l'applicazione il counter non assumera valori negativi,cioè il counter non assumerà valori al disotto dello zero.  Questa è stata una scelta  che ho fatto in fase di realizzazione del progetto.
+Come si può notare testando l'applicazione il counter non assumera valori negativi,cioè il counter non assumerà valori al disotto dello zero.  Questa è stata una scelta personale  che ho fatto in fase di realizzazione del progetto.
 
 
