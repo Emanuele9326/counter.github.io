@@ -22,6 +22,7 @@ if(valore>0){      //esegue il controllo del valore del counter.Sè il valore=0 
 document.getElementById("numero").setAttribute("value",numero);
 }
 
+
 function reset(event){
 document.getElementById("numero").setAttribute("value",0);
 }
