@@ -9,11 +9,11 @@ In questo repository è presente :
 
 1)il file index.html ;
 
-2)la cartella css nella quale è presenta il file counter.css;
+2)la cartella css nella quale è presenta il file style.css;
 
 3)la cartella js nella quale è presente il file counter.js;
 
-4)il file README.
+4)file README.
 
 
 DESCRIZIONE:
